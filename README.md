@@ -23,24 +23,3 @@ CarbonChain is a platform designed to bring transparency and efficiency to the c
 *   **UI Components**: [ShadCN UI](https://ui.shadcn.com/)
 *   **Generative AI**: [Genkit](https://firebase.google.com/docs/genkit)
 
-## Getting Started
-
-To get a local copy up and running, follow these simple steps.
-
-### Prerequisites
-
-Make sure you have Node.js and npm installed on your machine.
-
-### Installation & Running
-
-1.  Clone the repository.
-2.  Install NPM packages:
-    ```sh
-    npm install
-    ```
-3.  Run the development server:
-    ```sh
-    npm run dev
-    ```
-
-Open [http://localhost:9002](http://localhost:9002) with your browser to see the result. You can start editing the main page by modifying `src/app/page.tsx`.
